@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Tahsin Berk Öztekin</h1>
-<h3 align="center">A computer engineering student with a knack for problem-solving and a passion for technology.</h3>
+<h3 align="center">A computer engineering graduate with a knack for problem-solving and a passion for technology.</h3>
 
 - 🔭 Currently, I'm delving into **Advancing my skills in data analysis and software development.**
 
 - 🌱 Actively learning about **Artificial Neural Networks and advanced techniques in Python programming**
 
 - 👯 Open to collaborating on **Projects that involve data visualization and AI.**
-
-- 🤝 Seeking assistance with **Furthering my knowledge in Assambly language and database systems.**
 
 - 👨‍💻 Explore my projects [https://github.com/Elveng?tab=repositories](https://github.com/Elveng?tab=repositories)
 
